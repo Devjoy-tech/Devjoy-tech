@@ -1,6 +1,9 @@
  Hi, I’m Joy Ironali Orie
+
  I’m interested in  coding/programming
+ 
  I’m currently learning Javascript
+ 
  You can reach me on Linkedin and on twitter
 
 
